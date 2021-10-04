@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+  
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+
+    <title>Strategic Communication Design Student Directory</title>
+  </head>
+  <body>
+    
+
+    <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+      <div class="container-fluid">
+          
+
+
+        <a class="navbar-brand" href="#">Strategic Communication Design Student Directory</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Dropdown
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="#">Contact</a></li>
+                  <li><a class="dropdown-item" href="#">Portfolios</a></li>
+                  <li><hr class="dropdown-divider"></li>
+                  <li><a class="dropdown-item" href="#">Geographical Information</a></li>
+                  
+                </ul>
+              </li>
+
+
+
+          <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+    
+
+    <div class="accordion accordion-flush" id="accordionFlushExample">
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="flush-headingOne">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+            Class of 2022
+          </button>
+        </h2>
+        <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">Cohort 13 - 2021/2022</li>
+              <li class="list-group-item">Alex Steele</li>
+              <li class="list-group-item">Mickey de Haas</li>
+              <li class="list-group-item">McKindsay Dow</li>
+              <li class="list-group-item">Aaron McCoy</li>
+              <li class="list-group-item">John ONeil</li>
+              <li class="list-group-item">Cameron Palmer</li>
+              <li class="list-group-item">Caroline Pozo</li>
+              <li class="list-group-item">Olivia Trujillo</li>
+              <li class="list-group-item">Trent Schultz</li>
+              <li class="list-group-item">Sarah Jacobson</li>
+              <li class="list-group-item">Danny Shanahan</li>
+              <li class="list-group-item">Lily Kim</li>
+            </ul>
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="flush-headingTwo">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+            Class of 2021
+          </button>
+        </h2>
+        <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+
+            <li class="list-group-item">Cohort 12 - 2020/2021</li>
+            <li class="list-group-item">Mark Banzhoff</li>
+            <li class="list-group-item">Mateo Barroetavena</li>
+            <li class="list-group-item">Cal Brackin</li>
+            <li class="list-group-item">Arielle Castro</li>
+            <li class="list-group-item">Karlie Cronin</li>
+            <li class="list-group-item">Hudson Fega</li>
+            <li class="list-group-item">Bella Fidjeland</li>
+            <li class="list-group-item">Caleb Hammel</li>
+            <li class="list-group-item">Natalie Jackson</li>
+            <li class="list-group-item">Cody King</li>
+            <li class="list-group-item">Heather Kraft</li>
+            <li class="list-group-item">Katie Kreider</li>
+            <li class="list-group-item">Haley Mordini</li>
+            <li class="list-group-item">Mye Ponrattanasiri</li>
+            <li class="list-group-item">Devva Saunders</li>
+            <li class="list-group-item">Max Vecchitto</li>
+            <li class="list-group-item">Jacque Walo</li>
+            <li class="list-group-item">Yuan Zhuang</li>
+
+            </div>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="flush-headingThree">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+            Class of 2020
+          </button>
+        </h2>
+        <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+            <li class="list-group-item">Cohort 11 - 2019/2020</li>
+            <li class="list-group-item">Gia Almuaili</li>
+            <li class="list-group-item">Yvonne Danyluck</li>
+            <li class="list-group-item">Vanessa Frye</li>
+            <li class="list-group-item">Min Kim</li>
+            <li class="list-group-item">Megan Kwiatkowski</li>
+            <li class="list-group-item">Nick Lunt</li>
+            <li class="list-group-item">Aitana Rothfeld</li>
+            <li class="list-group-item">Josh Sheetz</li>
+            <li class="list-group-item">Tess Stevens</li>
+            <li class="list-group-item">Caro Beresford-Wood</li>
+            <li class="list-group-item">Yeon Choi</li>
+            <li class="list-group-item">Steven Douglas</li>
+            <li class="list-group-item">Mark Grundberg</li>
+            <li class="list-group-item">Clayton Kenney</li>
+            <li class="list-group-item">Dave Laskowski</li>
+            <li class="list-group-item">Derek Palmer</li>
+            <li class="list-group-item">Nicole Tang</li>
+            <li class="list-group-item">Yangmin Zhang</li>
+            
+            </div>
+        </div>
+      </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="flush-headingOne">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseOne">
+          Class of 2019
+        </button>
+      </h2>
+      <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+        <div class="accordion-body">
+          <li class="list-group-item">Cohort 10 - 2018/2019</li>
+          <li class="list-group-item">Diamond Alexander</li>
+          <li class="list-group-item">Robert Brazell</li>
+          <li class="list-group-item">Makenna Considine</li>
+          <li class="list-group-item">Jonas Escobedo</li>
+          <li class="list-group-item">Rachael McAllister</li>
+          <li class="list-group-item">Allison Spiegel</li>
+          <li class="list-group-item">Sarah Cohen</li>
+          <li class="list-group-item">Karen McClellan</li>
+          <li class="list-group-item">Kelly Phillips</li>
+          <li class="list-group-item">Hanshu Zhou</li>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="flush-headingFive">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+          Class of 2018
+        </button>
+      </h2>
+      <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
+        <div class="accordion-body">
+          <li class="list-group-item">Cohort 9 - 2017/2018</li>
+          <li class="list-group-item">Meredith Fong</li>
+          <li class="list-group-item">Aaron Meyerhoff</li>
+          <li class="list-group-item">Josh Adler</li>
+          <li class="list-group-item">Sarah Safranski</li>
+          <li class="list-group-item">Michelle Blake</li>
+          <li class="list-group-item">Jim Murphy</li>
+          <li class="list-group-item">Matt Isola</li>
+          <li class="list-group-item">Nikki Cavalier</li>
+          <li class="list-group-item">Erin Pfeifer</li>
+          <li class="list-group-item">Nick Balderston</li>
+          <li class="list-group-item">Rebekah Sosa</li>
+        </div>
+      </div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+
+  
+  </body>
+</html>
